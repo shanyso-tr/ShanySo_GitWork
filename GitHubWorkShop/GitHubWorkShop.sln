@@ -6,7 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D740650-5E4E-455A-8A3C-6AB16283C245}"
 	ProjectSection(SolutionItems) = preProject
 		File1.txt = File1.txt
-		File2.txt = File2.txt
 		File3.txt = File3.txt
 	EndProjectSection
 EndProject
